@@ -36,7 +36,7 @@ public class FirstBadVersion {
 				start = mid + 1; // check right of mid
 			}
 		}
-		return n;
+		return start;
 	}
 
 }
